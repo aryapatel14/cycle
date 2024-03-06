@@ -1,6 +1,0 @@
-- Duc Tran ([ducth1903](https://github.com/ducth1903))
-- Dominic Rutkowski ([drutkowski](https://github.com/dominicrutk))
-- Paul Davis ([21pdavis](https://github.com/21pdavis))
-- Anshul Saha ([sheldor1510](https://github.com/sheldor1510))
-- Vi Doan ([vitdoan](https://github.com/vitdoan))
-- Arya Patel ([aryapatel14](https://github.com/aryapatel14))
