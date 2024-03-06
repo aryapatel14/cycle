@@ -12,48 +12,43 @@ Explore our educational hub, empowering users with valuable resources to deepen 
 
 **Tech Stack ⚙️**
 
-Docker
+1. Docker
+2. Next.js
+3. React Native
+4. Expo
+5. Flask API
+6. AWS ECR/ECS
+7. S3
+8. DynamoDB
+9. Firebase
 
-Next.js
+**Features 🔋**
 
-React Native
+- Daily, Weekly, Monthly blood flow tracker for monitoring and predicting ovulation cycles and periods.
+- Valuable mood/feelings insights with trend overviews for managing emotional fluctuations.
+- Educational Hub for accessing resources on symptoms, pain relief, health concerns, and more.
+- Customizable Accounts
+- Supports 5+ Languages & Audio
+- Proactive Notifications
+- Top-Notch Security (Database)
+- Surveys for user feedback
 
-Expo
-
-Flask API
-
-AWS ECR/ECS
-
-S3
-
-DynamoDB
-
-Firebase
-
-Features 🔋
-
-Daily, Weekly, Monthly blood flow tracker for monitoring and predicting ovulation cycles and periods.
-Valuable mood/feelings insights with trend overviews for managing emotional fluctuations.
-Educational Hub for accessing resources on symptoms, pain relief, health concerns, and more.
-Customizable Accounts
-Supports 5+ Languages & Audio
-Proactive Notifications
-Top-Notch Security (Database)
-Surveys for user feedback
-
-Quick Start 🤸
+**Quick Start 🤸**
 
 Install Docker Desktop or Engine
+
 Run mobile and server with Docker:
-make run_docker
+- make run_docker
+
 Run locally:
-Install nvm and npm
+- Install nvm and npm
+
 Build mobile & server:
-make build_mobile_local
-make build_server_local
+- make build_mobile_local
+- make build_server_local
+
 Run mobile & server:
-make run_mobile_local
-make run_server_local
-Follow these steps to get Flo up and running on your local environment. For more detailed instructions, refer to the documentation.
+- make run_mobile_local
+- make run_server_local
 
 Feel empowered, informed, and in control with Flo – your ultimate menstrual tracking companion! 🌸
