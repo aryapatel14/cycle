@@ -2,7 +2,7 @@
 ![Cover (2)](https://github.com/aryapatel14/flo/assets/138143934/d5c5762e-89d2-4153-9033-4ddaf1092bf5)
 ![Product Launch Presentation With Mockups](https://github.com/aryapatel14/flo/assets/138143934/0ca57b91-874a-4b0a-be04-3dd84b6cf0df)
 
-🚧 APPLICATION UNDER-REVIEW AND UPDATES 🚧
+**🚧 APPLICATION UNDER-REVIEW AND UPDATES 🚧**
 
 **Introduction 🤖**
 
