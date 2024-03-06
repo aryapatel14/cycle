@@ -51,4 +51,4 @@ Run mobile & server:
 - make run_mobile_local
 - make run_server_local
 
-Feel empowered, informed, and in control with Flo – your ultimate menstrual tracking companion! 
+**Feel empowered, informed, and in control with Flo – your ultimate menstrual tracking companion!**
