@@ -1,0 +1,46 @@
+{
+  "expo": {
+    "name": "FLO",
+    "description": "Period tracker app and education",
+    "slug": "flo",
+    "version": "1.0.0",
+    "scheme": "sasperiodscheme",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "orientation": "portrait",
+    "icon": "./assets/revised-logo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/Welcome.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "flo.period"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/revised-logo.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "flo.period"
+    },
+    "web": {
+      "favicon": "./assets/revised-logo.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9627972f-0ff2-4907-bffd-a39031949d35"
+      }
+    }
+  }
+}
