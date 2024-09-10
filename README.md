@@ -1,4 +1,5 @@
-![Cover](https://github.com/user-attachments/assets/08211c73-3c1e-492a-83d6-b8a8e9076247)
+
+![Cover](https://github.com/user-attachments/assets/5761e9bf-6b89-4eed-9a13-697351fa20bb)
 ![Cover (2)](https://github.com/user-attachments/assets/de5b3614-8d7e-4b80-9f3c-95f50fb04224)
 ![Cover (3)](https://github.com/user-attachments/assets/a667218f-15a1-4f92-a771-2f4107ed3136)
 
