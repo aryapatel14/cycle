@@ -1,6 +1,8 @@
-![Cover](https://github.com/aryapatel14/flo/assets/138143934/22d52508-8315-4231-bcbf-2169d6f4eb58)
-![Cover (2)](https://github.com/aryapatel14/flo/assets/138143934/d5c5762e-89d2-4153-9033-4ddaf1092bf5)
-![Product Launch Presentation With Mockups](https://github.com/aryapatel14/flo/assets/138143934/0ca57b91-874a-4b0a-be04-3dd84b6cf0df)
+![Cover](https://github.com/user-attachments/assets/08211c73-3c1e-492a-83d6-b8a8e9076247)
+![Cover (2)](https://github.com/user-attachments/assets/de5b3614-8d7e-4b80-9f3c-95f50fb04224)
+![Cover (3)](https://github.com/user-attachments/assets/a667218f-15a1-4f92-a771-2f4107ed3136)
+
+
 
 **🚧 APPLICATION UNDER-REVIEW AND UPDATES 🚧**
 
